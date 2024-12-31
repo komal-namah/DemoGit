@@ -22,6 +22,10 @@ class ViewController: UIViewController {
         
         //kkkkkkkkkkkkkkkkk
         //nnnnnnnn
+        //hkkljjkljkljklkjlkjlkljjkl
+        //909090909090909090909090
+        //1push
+        //2 push
         
     }
 
